@@ -65,6 +65,7 @@
 - able to create examples for competencies of web backend
 - [Thymeleaf](https://github.com/greenfox-academy/zsomborbencsik/blob/master/week-9/day-4/chatApp/src/main/resources/templates/index.html)
 - able to use the framework's special Dependency Injection system
+https://github.com/greenfox-academy/zsomborbencsik/blob/master/week-9/day-4/chatApp/src/main/java/com/greenfox/chatapp/controllers/MainController.java
 - usage of the framework's IoC container(Spring Framework Inversion of Control)
 - able to alter basic configurations
 - understanding the flow of HTTP
