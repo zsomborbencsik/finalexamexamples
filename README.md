@@ -63,7 +63,7 @@
 - find documentation and usage examples
 - understanding the framework and the application as web backend
 - able to create examples for competencies of web backend
-- using a templating system e.g. Thymeleaf/Razor Pages
+- [Thymeleaf](https://github.com/greenfox-academy/zsomborbencsik/blob/master/week-9/day-4/chatApp/src/main/resources/templates/index.html)
 - able to use the framework's special Dependency Injection system
 - usage of the framework's IoC container(Spring Framework Inversion of Control)
 - able to alter basic configurations
