@@ -34,13 +34,13 @@
 
 ## Interfaces and abstract classes
 
-- [Usage of interfaces and abstract classes] (https://github.com/greenfox-academy/zsomborbencsik/tree/master/week-6/day-2/src/main/java/animals)
+- [Usage of interfaces and abstract classes](https://github.com/greenfox-academy/zsomborbencsik/tree/master/week-6/day-2/src/main/java/animals)
 - understanding the difference between interfaces and abstract classes
 - understand when to use interface and when to use super class
 
 ## Queries
 
-- [Custom Queries] (https://github.com/zsomborbencsik/pallida-orientation-exam-retake/blob/master/src/main/java/com/greenfox/examretake/repositories/ItemRepository.java)
+- [Custom Queries](https://github.com/zsomborbencsik/pallida-orientation-exam-retake/blob/master/src/main/java/com/greenfox/examretake/repositories/ItemRepository.java)
 - usage of language integrated quaries e.g. LINQ/StreamApi
 - understanding the syntax
 - able to write simple custom quaries
