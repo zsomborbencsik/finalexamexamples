@@ -14,32 +14,33 @@
  -  Follow indentation and coding styleguides in their code
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
-     -  [Filtering](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/Filtering.java)
-     -  [Finding elements or index](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/FindingElementsOrIndex.java)
-     -  [Generating lists](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/GeneratingLists.java)
+     -  [Filtering](https://github.com/greenfox-academy/zsomborbencsik/blob/master/Day5/src/PalindromeSearcher.java)
+     -  [Finding elements or index](https://github.com/greenfox-academy/zsomborbencsik/blob/master/Day3/src/AppendLetter.java)
+     -  [Generating lists](https://github.com/greenfox-academy/zsomborbencsik/blob/master/Day3/src/AppendLetter.java)
      -  [Checking multiple values and counting](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/CheckingMultipleValuesAndCounting.java)
      -  [Maping values](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/MappingValues.java)
  -  Use object orientation:
-     -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/GardenProject/src/Plant/Plant.java)
-     -  [Subclasses](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/GardenProject/src/Flowers.java)
+     -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/zsomborbencsik/tree/master/week-4/day-2/src)
+     -  [Subclasses](https://github.com/greenfox-academy/zsomborbencsik/tree/master/week-4/day-2/src)
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
      -  Understanding "this" keyword
- -  [Handle errors and exceptions](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/BookshelfSpringProject/src/main/java/com/greenfoxacademy/bibliotheca/controller/BookController.java)
+ -  [Handle errors and exceptions](https://github.com/greenfox-academy/zsomborbencsik/blob/master/week-9/day-3/src/main/java/com/greenfox/json/Rest.java)
  -  Determine the output of expressions
  -  Explain their own code
- -  [Write unit tests for functions and methods](https://github.com/greenfox-academy/huli-review-helper-backend/blob/testupdate/src/test/java/com/devilline/heartbeat/HeartbeatApplicationTests.java)
+ -  [Write unit tests for functions and methods](https://github.com/greenfox-academy/zsomborbencsik/tree/master/week-4/day-3/test)
  
  # Backend Orientation Exam Competencies
 
 ## Interfaces and abstract classes
 
-- usage of interfaces and abstract classes
+- [Usage of interfaces and abstract classes] (https://github.com/greenfox-academy/zsomborbencsik/tree/master/week-6/day-2/src/main/java/animals)
 - understanding the difference between interfaces and abstract classes
 - understand when to use interface and when to use super class
 
 ## Queries
 
+- [Custom Queries] (https://github.com/zsomborbencsik/pallida-orientation-exam-retake/blob/master/src/main/java/com/greenfox/examretake/repositories/ItemRepository.java)
 - usage of language integrated quaries e.g. LINQ/StreamApi
 - understanding the syntax
 - able to write simple custom quaries
@@ -104,7 +105,7 @@
 ## Endpoint tests
 
 - able to make difference between unit test and integration test
-- [create endpoint test](https://github.com/greenfox-academy/huli-review-helper-backend/blob/testupdate/src/test/java/com/devilline/heartbeat/HeartbeatApplicationTests.java)
+- [create endpoint test](https://github.com/greenfox-academy/zsomborbencsik/blob/master/week-9/day-3/src/test/java/com/greenfox/json/JsonTester.java)
   - with the help of a mock server
   
   
